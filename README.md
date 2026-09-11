@@ -1,10 +1,12 @@
 # ConnectaTel – Sprint 7
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel.
+
 El notebook contiene 3 fuentes de datos utilizados para el análisis:
-plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
-users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
-usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
+
+- plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
+- users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
+- usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
 
 ## 📂 Contenido del repositorio
