@@ -18,7 +18,7 @@ El notebook contiene 3 fuentes de datos utilizados para el análisis:
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1LEmahxAxOaoUs_EtkIu8LXD3dr2uMrX8#scrollTo=4ff759e8)
+[Open In Colab](https://colab.research.google.com/drive/1LEmahxAxOaoUs_EtkIu8LXD3dr2uMrX8#scrollTo=4ff759e8)
 
 O:
 
