@@ -1,6 +1,6 @@
-# ConnectaTel – Sprint 7
+# Análisis de una empresa de telecomunicaciones
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel.
+Este repositorio contiene el análisis realizado como práctica a una empresa de telecomunicaciones. 
 
 El notebook contiene 3 fuentes de datos utilizados para el análisis:
 
