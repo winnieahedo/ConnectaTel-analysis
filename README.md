@@ -11,8 +11,8 @@ El notebook contiene 3 fuentes de datos utilizados para el análisis:
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/S7 FinalProject-ConnectaTel (1).ipynb
   → Notebook principal con limpieza, EDA, visualizaciones, outliers, conclusiones y recomendaciones.
+  → S7 FinalProject-ConnectaTel (1).ipynb
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
